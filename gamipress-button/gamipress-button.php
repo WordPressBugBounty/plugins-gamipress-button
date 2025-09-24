@@ -9,7 +9,7 @@
  * Text Domain:         gamipress-button
  * Domain Path: 		/languages/
  * Requires at least: 	4.4
- * Tested up to: 		6.5
+ * Tested up to: 		6.8
  * License:             GNU AGPL v3.0 (http://www.gnu.org/licenses/agpl.txt)
  *
  * @package             GamiPress\Button

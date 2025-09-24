@@ -2,7 +2,7 @@
 Contributors: gamipress, tsunoa, rubengc, eneribs
 Tags: button, click, gamipress, gamification, gamify, points, achievements, badges, awards, rewards, credits, engagement
 Requires at least: 4.4
-Tested up to: 6.5
+Tested up to: 6.8
 Stable tag: 1.0.9
 License: GNU AGPLv3
 License URI:  http://www.gnu.org/licenses/agpl-3.0.html
